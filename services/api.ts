@@ -1,7 +1,7 @@
 // services/api.ts
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-export const API_BASE_URL = 'https://edmonton-aaron-thus-try.trycloudflare.com/api/';
+export const API_BASE_URL = 'https://barn-cursor-scholarship-destruction.trycloudflare.com/api/';
 
 interface Tarea {
   id: number;
